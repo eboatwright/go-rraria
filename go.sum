@@ -1,0 +1,4 @@
+github.com/aquilax/go-perlin v1.1.0 h1:Gg+3jQ24wT4Y5GI7TCRLmYarzUG0k+n/JATFqOimb7s=
+github.com/aquilax/go-perlin v1.1.0/go.mod h1:z9Rl7EM4BZY0Ikp2fEN1I5mKSOJ26HQpk0O2TBdN2HE=
+github.com/gen2brain/raylib-go/raylib v0.0.0-20210719094109-1ca7b58c8240 h1:VskQUH3XI4OiM8ao2GscifttRFS8JhdcPkglwgsk8TA=
+github.com/gen2brain/raylib-go/raylib v0.0.0-20210719094109-1ca7b58c8240/go.mod h1:+NbsqGlEQqGqrsgJFF5Yj2dkvn0ML2SQb8RqM2hJsPU=

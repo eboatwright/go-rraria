@@ -1,0 +1,16 @@
+Assets:
+[ ] - Block break and build sound effect
+[ ] - Draw chicken
+[ ] - Animate chicken
+
+Coding:
+[ ] - Make player face mouse when mining
+[ ] - Inventory system
+[ ] - Crafting system
+[ ] - Play block break and build sound effect
+[ ] - Ore generation
+[ ] - Implement crafting menu
+[ ] - Add extra stuff to crafting menu when near crafting block
+[ ] - Add delay when mining blocks
+[ ] - Implement sword
+[ ] - Implement chicken
