@@ -1,6 +1,8 @@
 # Go-rraria
  Basic fundamentals of Terraria remade in Golang
 
+ To run the executable provided, you have to use Terminal (./go-rraria) :D
+
 # Contents
  I've implemented:
   * Basic player movement
